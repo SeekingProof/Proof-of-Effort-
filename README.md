@@ -203,7 +203,7 @@ Policy are available on the site.
 
 Full documentation lives at **[seekingproof.com](https://seekingproof.com)**:
 
-- User Guide
+- [User Guide](USER_GUIDE.md)
 - Installation & System Requirements
 - Troubleshooting
 - [FAQ](FAQ.md)
