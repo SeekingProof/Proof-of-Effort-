@@ -208,8 +208,8 @@ Full documentation lives at **[seekingproof.com](https://seekingproof.com)**:
 - Troubleshooting
 - FAQ
 - Research Foundations
-- Security Whitepaper
-- Privacy Statement
+- [Research Foundations](RESEARCH_FOUNDATIONS.md)
+- [Threat Model & Limitations](THREAT_MODEL.md)
 - Threat Model & Limitations
 - Privacy Policy · Terms of Service
 - Changelog
