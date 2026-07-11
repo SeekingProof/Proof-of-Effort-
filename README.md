@@ -206,7 +206,7 @@ Full documentation lives at **[seekingproof.com](https://seekingproof.com)**:
 - User Guide
 - Installation & System Requirements
 - Troubleshooting
-- FAQ
+- [FAQ](FAQ.md)
 - [Security Whitepaper](SECURITY_OVERVIEW.md)
 - [Research Foundations](RESEARCH_FOUNDATIONS.md)
 - [Threat Model & Limitations](THREAT_MODEL.md)
